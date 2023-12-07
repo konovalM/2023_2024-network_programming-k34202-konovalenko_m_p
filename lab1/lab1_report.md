@@ -139,7 +139,9 @@ Certificate = сертификат пользователя
 
 Соединение установлено. Проверили связанность, пропинговав сервер по внутреннему ip-адресу:
 
-![connection](img/connection.jpg)
+![addresses](img/routerAddresses.jpg)
+
+![ping](img/ping.jpg)
 
 ## Вывод:
 
